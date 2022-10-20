@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "i2c.h": "c",
+    "esp_log.h": "c",
+    "esp_timer.h": "c",
+    "esp_heap_caps.h": "c",
+    "freertos.h": "c",
+    "trill.h": "c",
+    "semphr.h": "c",
+    "task.h": "c"
+  },
+  "idf.adapterTargetName": "esp32",
+  "idf.toolsPath": "/home/luca/.espressif",
+  "idf.port": "/dev/ttyUSB0"
+}
